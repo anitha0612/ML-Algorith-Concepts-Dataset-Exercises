@@ -1,1 +1,1 @@
-# ML-Algorith-Concepts-Dataset-Exercises
+# ML-Algorithm-Concepts-Dataset-Exercises
